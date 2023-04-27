@@ -1,0 +1,15 @@
+C:\Users\56262631879\Desktop\Atividade Celular\bin\Debug\net7.0\Atividade Celular.exe
+C:\Users\56262631879\Desktop\Atividade Celular\bin\Debug\net7.0\Atividade Celular.deps.json
+C:\Users\56262631879\Desktop\Atividade Celular\bin\Debug\net7.0\Atividade Celular.runtimeconfig.json
+C:\Users\56262631879\Desktop\Atividade Celular\bin\Debug\net7.0\Atividade Celular.dll
+C:\Users\56262631879\Desktop\Atividade Celular\bin\Debug\net7.0\Atividade Celular.pdb
+C:\Users\56262631879\Desktop\Atividade Celular\obj\Debug\net7.0\Atividade Celular.csproj.AssemblyReference.cache
+C:\Users\56262631879\Desktop\Atividade Celular\obj\Debug\net7.0\Atividade Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56262631879\Desktop\Atividade Celular\obj\Debug\net7.0\Atividade Celular.AssemblyInfoInputs.cache
+C:\Users\56262631879\Desktop\Atividade Celular\obj\Debug\net7.0\Atividade Celular.AssemblyInfo.cs
+C:\Users\56262631879\Desktop\Atividade Celular\obj\Debug\net7.0\Atividade Celular.csproj.CoreCompileInputs.cache
+C:\Users\56262631879\Desktop\Atividade Celular\obj\Debug\net7.0\Atividade Celular.dll
+C:\Users\56262631879\Desktop\Atividade Celular\obj\Debug\net7.0\refint\Atividade Celular.dll
+C:\Users\56262631879\Desktop\Atividade Celular\obj\Debug\net7.0\Atividade Celular.pdb
+C:\Users\56262631879\Desktop\Atividade Celular\obj\Debug\net7.0\Atividade Celular.genruntimeconfig.cache
+C:\Users\56262631879\Desktop\Atividade Celular\obj\Debug\net7.0\ref\Atividade Celular.dll
